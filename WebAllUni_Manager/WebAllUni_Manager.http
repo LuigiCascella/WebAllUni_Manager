@@ -1,0 +1,6 @@
+@WebAllUni_Manager_HostAddress = http://localhost:5133
+
+GET {{WebAllUni_Manager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
